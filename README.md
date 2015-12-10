@@ -9,4 +9,5 @@ npm install fs
 npm install blessed
 npm install blessed-contrib
 
-run nodejs
+run:
+nodejs multiterm.js
